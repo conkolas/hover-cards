@@ -30,10 +30,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "@storybook/react": "^4.0.0-rc.2",
-    "@storybook/addon-actions": "^4.0.0-rc.2",
-    "@storybook/addon-links": "^4.0.0-rc.2",
-    "@storybook/addons": "^4.0.0-rc.2",
     "@babel/core": "^7.1.2",
     "babel-loader": "^8.0.4"
   }

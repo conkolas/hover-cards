@@ -2,7 +2,7 @@
 Small components for animatable content card grid.
 
 ## Usage
-Open app root directory and run `npm start`. The app is now running on `http://localhost:3000/`.
+First install static `serve` server with `npm install -g serve`. Go to app root directory and run `serve -s build`. The app is now running on `http://localhost:5000`.
 
 ### Used dependencies
 - Styled-components
