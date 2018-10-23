@@ -6,6 +6,6 @@ Open app root directory and run `npm start`. The app is now running on `http://l
 
 ### Used dependencies
 - Styled-components
-- Material-UI - layout and icons
-- React-pose - animations
-
+- Material-UI
+- react-theme-provider
+- PropTypes
